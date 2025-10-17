@@ -1,4 +1,7 @@
+###Customer satisfaction Dashboard
 This project focuses on developing an interactive Excel dashboard that integrates data from Orders, Finance, and Customer Satisfaction. Using Slicers, users can effortlessly filter and explore data, gaining valuable insights into sales performance, financial metrics, and customer feedback to support informed decision-making and enhance overall business outcomes.
+
+<img width="375" height="252" alt="image" src="https://github.com/user-attachments/assets/142dddec-005f-4f15-aaae-013294651b32" />
 
 Key Features
 
